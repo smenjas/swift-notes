@@ -1,5 +1,5 @@
 # Swift Notes
-My notes on the [Swift programming language](https://en.wikipedia.org/wiki/Swift_%28programming_language%29)
+My notes on the [Swift programming language](https://en.wikipedia.org/wiki/Swift_%28programming_language%29).
 
 - [swift.org](#swiftorg)
 - [Web Sites](#web-sites)
@@ -14,7 +14,7 @@ My notes on the [Swift programming language](https://en.wikipedia.org/wiki/Swift
     - [A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
     - [Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
     - [Language Reference](https://docs.swift.org/swift-book/ReferenceManual/AboutTheLanguageReference.html)
-  - [API Design Guidelines](API Design Guidelines)
+  - [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 - [Blog](https://swift.org/blog/)
 
 ## Web Sites
